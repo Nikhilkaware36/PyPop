@@ -1,0 +1,3 @@
+Found existing installation: requests 2.25.1
+Not uninstalling requests at /usr/lib/python3/dist-packages, outside environment /usr
+Can't uninstall 'requests'. No files were found to uninstall.

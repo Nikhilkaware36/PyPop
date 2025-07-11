@@ -1,0 +1,12 @@
+run.py
+setup.py
+core/__init__.py
+core/shell_runner.py
+gui/__init__.py
+gui/main_window.py
+pypop.egg-info/PKG-INFO
+pypop.egg-info/SOURCES.txt
+pypop.egg-info/dependency_links.txt
+pypop.egg-info/entry_points.txt
+pypop.egg-info/requires.txt
+pypop.egg-info/top_level.txt
