@@ -8,11 +8,11 @@ No more fighting with virtual environments or command-line mistakes. PyPop does 
 
 ## 🚀 Features
 
-- GUI + CLI support
-- Installs Python packages easily
-- Auto-logs activity
-- Clean, minimal, and fast
-- Fixes common pip frustrations
+- GUI + CLI support  
+- Installs Python packages easily  
+- Auto-logs activity  
+- Clean, minimal, and fast  
+- Fixes common pip frustrations  
 
 ---
 
@@ -21,39 +21,38 @@ No more fighting with virtual environments or command-line mistakes. PyPop does 
 Run this once to install everything:
 
 ```bash
+
 python3 setup.py install
 
+```
 🖥️ To Launch GUI
 
+```
 bash pypop.sh
+```
 
 🧾 To View Logs
 
+```
 bash pypoplog.sh
+```
 
 ⚡ Optional: Create Shortcut (run pypop from anywhere)
 
 Replace /full/path/to/PyPop/ with your actual path:
-
+```
 sudo cp /full/path/to/PyPop/pypop.sh /usr/local/bin/pypop
 sudo chmod +x /usr/local/bin/pypop
 
-Now you can just run:
 
 pypop
-
-▶️ Optional log shortcut:
-
-sudo cp /full/path/to/PyPop/pypoplog.sh /usr/local/bin/pypoplog
-sudo chmod +x /usr/local/bin/pypoplog
-
-Now just run:
-
-pypoplog
+```
 
 ❌ To Uninstall
 
+```
 bash uninstall.sh
+```
 
 ⚠️ Notes
 
